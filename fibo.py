@@ -9,7 +9,8 @@ def fibonacci():
         print(c)
 print("Fibonacci Series is as follows: ")
 fibonacci()
-print("Done Successfully")
+print("Done Successfully.")
+print("Bye")
 
         
     

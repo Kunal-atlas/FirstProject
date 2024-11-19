@@ -7,7 +7,7 @@ def fibonacci():
         a=b
         b=c
         print(c)
-print("Fibonacci Series: ")
+print("Fibonacci Series is as follows: ")
 fibonacci()
 
         

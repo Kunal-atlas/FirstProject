@@ -1,4 +1,4 @@
 cd
 date
 time
-echo "Done"
+echo Done

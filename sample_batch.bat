@@ -1,4 +1,4 @@
 cd
-date
-time
+echo %date%
+echo %time%
 echo Done
